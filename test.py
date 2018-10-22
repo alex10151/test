@@ -6,3 +6,10 @@ def aaa():
     `f(x)`
     """
     pass
+
+def bbb():
+    '''
+    >     f(x)
+    `f(x)`
+    '''
+    pass
